@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on analyzing **Electric Vehicle (EV)** data to understand market growth, adoption trends, vehicle types, and manufacturer dominance. The analysis covers both **Battery Electric Vehicles (BEVs)** and **Plug-in Hybrid Electric Vehicles (PHEVs)** using **MS Excel** for data preparation and **Tableau** for interactive visualizations.
 
-The goal is to provide clear, data-driven insights into the evolving EV landscape and support decision-making through meaningful KPIs and dashboards. :contentReference[oaicite:0]{index=0}
+The goal is to provide clear, data-driven insights into the evolving EV landscape and support decision-making through meaningful KPIs and dashboards. 
 
 ---
 
